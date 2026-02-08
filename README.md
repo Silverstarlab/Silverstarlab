@@ -41,26 +41,22 @@
 
 - **Core**: Python, C++
 - **Infra**: Linux, Oracle Server (운영/배포)
-- **Collab**: Slack, Notion (이슈/로드맵/문서)
 
 ---
 
-## Projects (Selected)
-> 링크는 repo 만들어지면 교체하세요.
+## Runen Quantitatives Portfolio (Daily updates)
+> https://www.notion.so/Runen-Luica-2fef799996a3807f8e48c9592cb8e462?source=copy_link
 
 - **Short Bot (Live Testing)**  
   실전 환경에서 공매도 전략을 운영하며 신호/리스크/로그 체계를 개선하는 프로젝트.  
   `Status: Active` • `Stack: Python/C++ + Linux + Oracle`  
-  → Repo: (추가 예정)
 
 - **Crypto Market Analytics & Strategy Validation**  
   크립토 시장 데이터 분석 및 전략 검증 파이프라인 구축.  
   `Status: Building` • `Pipeline: Ingestion → Validate → Signal → Monitor`  
-  → Repo: (추가 예정)
 
 - **NASDAQ Short-Derivatives Forecasting (Past Work)**  
   나스닥 공매도 파생시장 흐름 예측 알고리즘 개발 경험을 기반으로 모델/피처/검증 방법론 축적.  
-  → Notes/Writeup: (운영중)
 
 ---
 ---
@@ -76,4 +72,4 @@
 ---
 
 ## Contact
-- DM/Collab: GitHub Issues 또는 Discord/Notion 협업 요청
+- Discord @crabman_jung
