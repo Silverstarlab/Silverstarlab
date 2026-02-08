@@ -58,18 +58,7 @@
 - **NASDAQ Short-Derivatives Forecasting (Past Work)**  
   나스닥 공매도 파생시장 흐름 예측 알고리즘 개발 경험을 기반으로 모델/피처/검증 방법론 축적.  
 
----
----
 
-## Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Silverstarlab&show_icons=true" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Silverstarlab&layout=compact" />
-</p>
-
----
 
 ## Contact
 - Discord @crabman_jung
